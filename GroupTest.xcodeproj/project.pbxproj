@@ -56,15 +56,23 @@
 		4DA519BE2D8BEA170068BE5D /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
+				4DA519C72D8BED8B0068BE5D /* Hue */,
 				4DA519B52D8BEA170068BE5D /* AppDelegate.swift */,
 				4DA519B62D8BEA170068BE5D /* Assets.xcassets */,
 				4DA519B72D8BEA170068BE5D /* Info.plist */,
 				4DA519B92D8BEA170068BE5D /* LaunchScreen.storyboard */,
 				4DA519BB2D8BEA170068BE5D /* Main.storyboard */,
 				4DA519BC2D8BEA170068BE5D /* SceneDelegate.swift */,
-				4DA519BD2D8BEA170068BE5D /* ViewController.swift */,
 			);
 			path = GroupTest;
+			sourceTree = "<group>";
+		};
+		4DA519C72D8BED8B0068BE5D /* Hue */ = {
+			isa = PBXGroup;
+			children = (
+				4DA519BD2D8BEA170068BE5D /* ViewController.swift */,
+			);
+			path = Hue;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
