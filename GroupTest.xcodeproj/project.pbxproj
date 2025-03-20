@@ -56,7 +56,9 @@
 		4DA519BE2D8BEA170068BE5D /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
-				4DA519C62D8BEB8B0068BE5D /* Jack */,
+
+				4DA519C72D8BED8B0068BE5D /* Hue */,
+
 				4DA519B52D8BEA170068BE5D /* AppDelegate.swift */,
 				4DA519B62D8BEA170068BE5D /* Assets.xcassets */,
 				4DA519B72D8BEA170068BE5D /* Info.plist */,
@@ -67,12 +69,16 @@
 			path = GroupTest;
 			sourceTree = "<group>";
 		};
-		4DA519C62D8BEB8B0068BE5D /* Jack */ = {
+
+		4DA519C72D8BED8B0068BE5D /* Hue */ = {
+
 			isa = PBXGroup;
 			children = (
 				4DA519BD2D8BEA170068BE5D /* ViewController.swift */,
 			);
-			path = Jack;
+
+			path = Hue;
+
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
